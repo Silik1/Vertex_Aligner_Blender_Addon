@@ -13,8 +13,7 @@ The addon features a user-friendly interface, accessible through a dedicated pan
 
 
 ## Demo
-
-![VertexAligner_01](https://user-images.githubusercontent.com/8767286/229628988-270a9170-de25-4611-be6c-088d90560c19.gif)
+![VertexAligner_02](https://user-images.githubusercontent.com/8767286/229630709-afb323a4-19b5-42f9-8b56-f215eb43c32b.gif)
 
 
 ## Installation
