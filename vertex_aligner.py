@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Vertex Aligner",
-    "author": "Servais Julien",
+    "author": "Silik1",
     "version": (1, 0),
     "blender": (3, 00, 0),
     "location": "View3D > Sidebar > Align Tab",
